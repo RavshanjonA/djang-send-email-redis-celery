@@ -1,4 +1,4 @@
-# Send Email with Redis
+# Send Email with Celery, Redis in Django
 
 #### This is a simple example of how to send email with celery and django.
 
